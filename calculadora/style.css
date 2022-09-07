@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(24, 1, 53);
+}
+
+input {
+    color: white;
+    padding: 17px;
+    outline: none;
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 25%;
+}
+
+.num {
+    width: 64px;
+    height: 67px;
+}
+
+.text {
+    width: 160px;
+    height: 26px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.text1 {
+    width: 24px;
+    height: 26px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+}
+
+.main {
+    display: inline-block;
+}
+
+.maincolor {
+    background-color: black;
+}
+
+.blue {
+    background-color: #0CD0CD;
+}
+
+.pin {
+    background-color: #cf1596;
+}
+
+.gre {
+    background-color: #aad800;
+}
+
+.pur {
+    background-color: #8c52ff;
+}
+
+.ora {
+    background-color: #fcb707;
+}
